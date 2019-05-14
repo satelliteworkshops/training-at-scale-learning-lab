@@ -19,7 +19,7 @@ Before the workshop, please make sure you:
 1. [Install](https://lab.github.com/docs/install) the Learning Lab app on at least one of your existing repos.
 
 ## :paw_prints: Next steps
-Take a coruse, if you like! But it is not a prerequisite to learn how to write your own course, which we'll take care of in the workshop!
+Take a course, if you like! But it is not a prerequisite to learn how to write your own course, which we'll take care of in the workshop!
 
 ## :books: Additional resources
 - [Learning Lab documentation](https://lab.github.com/docs)
